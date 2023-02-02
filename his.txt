@@ -1,0 +1,35 @@
+   0 cd /home
+   1 mkdir animals
+   2 cd animals/
+   3 mkdir -p dogs/cats/fish
+   4 cd dogs/cats/fish/
+   5 tree
+   6 tree /home/
+   7 touch /home/animals/dogs/pluto
+   8 touch /home/animals/dogs/cats/garfield
+   9 touch /home/animals/dogs/cats/fish/nemo
+  10 tree /home/
+  11 cd /tmp
+  12 touch /tmp/
+  13 touch /tmp/adam
+  14 cd /home/humans
+  15 cd /home
+  16 mkdir humans
+  17 cd humans/
+  18 cd /tmp
+  19 cp /tmp/adam /home/humans/
+  20 awd
+  21 cd /home/humans/
+  22 ls
+  23 cd  /tmp
+  24 ls
+  25 touch /tmp/evA
+  26 mv /tmp/evA /opt/eve
+  27 cd /opt
+  28 ls
+  29 mv /opt/eve /home/humans/
+  30 cd /home/humans/
+  31 ls
+  32 history
+  33 history > /tmp/history.txt
+https://vertex-academy.com/tutorials/ru/rabota-so-skannerom-v-java/
