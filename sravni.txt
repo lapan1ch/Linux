@@ -1,0 +1,9 @@
+Mon Feb  6 10:52:26 UTC 2023
+6.9G
+ 1005  df -h /
+ 1006  df -h / | awk '{print $3}' | tail -n1
+ 1007  df -h / | awk '{print $3}' | tail -n1 >> VITALY/sravni.txt
+ 1008  history | tail -n5
+ 1009  history | tail -n5 >> VITALY/sravni.txt
+GenuineIntel
+123
