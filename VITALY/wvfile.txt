@@ -1,0 +1,1006 @@
+: GenuineIntel
+0
+129
+Sun Feb  5 16:51:16 UTC 2023
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1      8.0G  7.0G  1.1G  87% /
+    9  ls
+   10  man ls
+   11  kill 12695
+   12  kill 15319
+   13  kill 17569
+   14  mkdir MISHA
+   15  ls
+   16  id
+   17  exit
+   18  cd VITALY/
+   19  ps aux
+   20  ps ux
+   21  kill 148528
+   22  kill 11163
+   23  exit
+   24  ps ux
+   25  kill 11528
+   26  kill 13198
+   27  kill 13725
+   28  kill 13943
+   29  ps ux
+   30  ps aux
+   31  ps
+   32  ps aux
+   33  ps ux
+   34  ps
+   35  ps ux
+   36  id
+   37  ps ux
+   38  cat /etc/os-release 
+   39  hostname
+   40  kill all
+   41  killall
+   42  killall ssh
+   43  killall ss
+   44  kill 13198
+   45  kill --help 
+   46  pwd
+   47  echo $MYVAR1
+   48  ls -la
+   49  cd /MISHA
+   50  cd home//MISHA
+   51  cd home/MISHA
+   52  cd home/MISHA/
+   53  ps ux
+   54  kill 18042
+   55  kill 17503
+   56  cat /etc/os-release
+   57  pwd
+   58  hostname
+   59  kilall bash
+   60  cd aleksandra
+   61  пвд
+   62  pwd
+   63  id
+   64  hostname
+   65  cd /home/
+   66  ps ux
+   67  id
+   68  cat /etc/os-release
+   69  killall
+   70  cd /
+   71  ps ux
+   72  kill 17823
+   73  pwd
+   74  id
+   75  cat /etc/os-release 
+   76  pwd
+   77  cd PAYU
+   78  cat /etc/os-release
+   79  hosthame
+   80  ps ux
+   81  killall
+   82  cd VITALY/
+   83  cat /etc/os-release
+   84  pwd
+   85  hostname
+   86  killall
+   87  ps ux
+   88  kill 150648
+   89  ps ux
+   90  kill 12520
+   91  kill 13153
+   92  kill 14131
+   93  ps ux
+   94  id
+   95  cat /etc/os-release 
+   96  killall
+   97  ps ux
+   98  killall 17436
+   99  killall 17646
+  100  killall sshd
+  101  yes
+  102  man ls
+  103  ps qx
+  104  ps ux
+  105  kill 17503
+  106  id
+  107  cat /etc/os-release 
+  108  hostname
+  109  killall
+  110  ps
+  111  ps a
+  112  ps ux
+  113  id
+  114  cat /etc/os-release 
+  115  pwd
+  116  hostname
+  117  cd aleksandra/
+  118  ps ux
+  119  killall bas
+  120  killall basic_5+
+  121  killall sshd
+  122  ps ux
+  123  ls
+  124  df -h
+  125  free -h
+  126  cd ADMIN/
+  127  vi file.txt
+  128  ls -l
+  129  pwd
+  130  exit
+  131  ps ux
+  132  df -h
+  133  free -h
+  134  df -h
+  135  killall --help
+  136  pwd
+  137  cd ./groovemaster/
+  138  nano file.txt
+  139  vi file.txt
+  140  ls
+  141  pwd
+  142  exit
+  143  ls -l
+  144  exit
+  145  cd aleksandra
+  146  df -h
+  147  free -h
+  148  vi file.txt
+  149  exit
+  150  history
+  151  df -h
+  152  free -h
+  153  ls .
+  154  ls ./
+  155  ls /
+  156  cd SergeyBL/
+  157  vi /tmp/file
+  158  exit
+  159  killall ssh
+  160  killall -l
+  161  df
+  162  free -h
+  163  cd PAYU
+  164  nano /PAYU/file.txt
+  165  cd PAYU
+  166  ls -l
+  167  pwd
+  168  exit
+  169  ls
+  170  df
+  171  cd TIM
+  172  vi file.txt
+  173  scp basic_57-58e@linux.telran-edu.de:home/basic_57-58e/TIM/file.txt Desktop/file.txt
+  174  scp basic_57-58e@linux.telran-edu.de:/home/basic_57-58e/TIM/file.txt Desktop/file.txt
+  175  exit
+  176  df -h
+  177  free -h
+  178  cd M
+  179  cd MISHA/
+  180  vi
+  181  ls
+  182   pwd
+  183  cp 123 123.txt
+  184  ls
+  185  scp basic_57-58e@linux.telran-edu.de:/home/MISHA/123.txt
+  186  exit
+  187  cd PAYU
+  188  vi file,txt
+  189  [wd
+  190  pwd
+  191  exit
+  192  ps ux
+  193  df -h
+  194  free -h
+  195  cd MAXIM
+  196  cd MAXIM/
+  197  ls
+  198  mv MAMIM/ MAXIM/
+  199  cd MAXIM/
+  200  vi file.txt
+  201  ls -l
+  202  pwd
+  203  ls -l
+  204  ls
+  205  pwd
+  206  exit
+  207  cd MAXIM/
+  208  vi file.txt
+  209  exit
+  210  cd ADMIN/
+  211  vi file.txt 
+  212  caT file.txt 
+  213  cat file.txt 
+  214  pwd
+  215  ls
+  216  exit
+  217  cd MAXIM/
+  218  cat file.txt 
+  219  exit
+  220  vi file.txt
+  221  pwd
+  222  cd PAYU
+  223  vi file2.txt
+  224  pwd
+  225  ls
+  226  exit
+  227  killall
+  228  df -h
+  229  cd /home/
+  230  vi file.txt
+  231  pwd
+  232  ls
+  233  exit
+  234  ps ux
+  235  ls
+  236  ps aux
+  237  ps ux
+  238  killall
+  239   df -h
+  240  free -h
+  241  cd VITALY/
+  242  vi file.txt
+  243  vi /tmp/failik.txt
+  244  ls -l
+  245  ls -1
+  246  cd SergeyBL/
+  247  vi /tmp/failik1.txt
+  248  ls
+  249  pwd
+  250  ls /tmp/
+  251  tree /tmp/
+  252  ls /tmp/failik1.txt
+  253  vi feilik.txt
+  254  ls
+  255  exit
+  256  ls /
+  257  vi file.txt
+  258  vi file2.txt
+  259  cad file2.txt
+  260  cd PAYU
+  261  tree
+  262  ls file2.txt
+  263  cad file2.txt
+  264  cad -a file2.txt
+  265  ls -a file2.txt
+  266  cat file2.txt
+  267  cat file.txt
+  268  cat file2.txt
+  269  ls -l
+  270  cd ..
+  271  ls .ssh/authorized_keys 
+  272  ls -l .ssh/authorized_keys 
+  273  cd PAYU
+  274  chmod g+x file.txt
+  275  chmod g+x file2.txt
+  276  ls -l 
+  277  chmod g=x file2.txt
+  278  cd PAYU
+  279  rm file,txt
+  280  cd PAYU
+  281  pwd
+  282  cat file2.txt
+  283  tree
+  284  exit
+  285  cd aleksandra/
+  286  vi file.txt 
+  287  cat file.txt 
+  288  cd ..
+  289  cd .bash_profile
+  290  cat .
+  291  cat .bashrc
+  292  chmod g=x file2.txt 
+  293  cd aleksandra/
+  294  chmod g=x file.txt
+  295  ls /
+  296  ls -ld .ssh
+  297  cd /home/
+  298  ls -l
+  299  cd home/
+  300  ls -l
+  301  pwd
+  302  ls
+  303  cd ./g
+  304  cd ./groovemaster/
+  305  ls
+  306  ls ../aleksandra/
+  307  cat ../aleksandra/file.txt 
+  308  cat ../PAYU/file
+  309  cat ../PAYU/file2.txt 
+  310  pwd
+  311  dh
+  312  df -h
+  313  cd /
+  314  pwd
+  315  ls
+  316  tree /tmp/
+  317  cat /tmp/history.txt 
+  318  cd /home/basic_57-58e/groovemaster/
+  319  echo "123" > file11.txt
+  320  ls
+  321  cat file11.txt 
+  322  cd /
+  323  ls
+  324  ls -a
+  325  ls /home/
+  326  ls -a /home/
+  327  ls
+  328  cd /home/
+  329  ls
+  330  ls -a
+  331  cd basic_57-58e/
+  332  ls -a
+  333  ls -l .ssh/authorized_keys 
+  334  ls -ld .ssh
+  335  pwd
+  336  ls
+  337  cd groovemaster/
+  338  ls
+  339  ls -l
+  340  chmod g=x file.txt 
+  341  ls -l
+  342  chmod g-x file.txt 
+  343  ls -l
+  344  pwd
+  345  ls --help
+  346  history
+  347  history | grep killall
+  348  pwd
+  349  ps ux
+  350  exit
+  351  history
+  352  tree /tmp/
+  353  ls -1
+  354  ls -l
+  355  cd SergeyBL/
+  356  ls -l
+  357  ls /home/basic_57-58e/
+  358  ls /home/basic_57-58e/ADMIN
+  359  ls -L /home/basic_57-58e/ADMIN
+  360  ls -l /home/basic_57-58e/ADMIN
+  361  chmod g=x
+  362  ls
+  363  ls -l
+  364  chmod g-x
+  365  chmod --help
+  366  history
+  367  ls
+  368  cd /MISHA
+  369  cd /MISHA/
+  370  cd home/MISHA/
+  371  cd
+  372  ls
+  373  man 
+  374  tree
+  375  tree /tmp/
+  376  chmod
+  377  cd ~
+  378  cd MISHA/
+  379  ls
+  380  ls -l
+  381  ..
+  382  cd ..
+  383  ls -l .ssh/authorized_keys 
+  384  ls -ld .ssh/authorized_keys 
+  385  cd MISHA/
+  386  ls -l
+  387  chmod g+x
+  388  chmod g+x 123
+  389  ls -l
+  390  chmod g=x 123
+  391  ls -l
+  392  chmod 777 123
+  393  ls -l
+  394  cd TIM
+  395  chmod
+  396  ls /
+  397  cd MAXIM/
+  398  ls /
+  399  ls
+  400  tree
+  401  cd ..
+  402  ls -l .ssh/authorized_keys 
+  403  cd MAXIM/
+  404  chmod g+x
+  405  chmod g+x file.txt
+  406  ls -l
+  407  chmod g-x file.txt
+  408  ls -l
+  409  chmod g=x file.txt
+  410  ls -l
+  411  ps ux
+  412  killall 18940
+  413  killall 21851
+  414  killall 21825
+  415  killall sshd
+  416  ps ux
+  417  df -h
+  418  free h
+  419  ls
+  420  mkdir Hleb
+  421  scp basic_57-58e@linux.telran-edu.de
+  422  scp basic_57-58e@linux.telran-edu.de:/home/basic_57-58e/ADMIN/file.txt Desktop/file.txt
+  423  scp basic_57-58e@linux.telran-edu.de:/home/basic_57-58e/Hleb/file.txt Desktop/file.txt
+  424  vi file.txt
+  425  scp basic_57-58e@linux.telran-edu.de:/home/basic_57-68e/ADMIN/file.txt Desktop/file.txt
+  426  scp basic_57-58e@linux.telran-edu.de:/home/basic_57-68e/Hleb/file.txt Desktop/file.txt
+  427  ls
+  428  cd ~
+  429  cd A
+  430  cd ADMIN/
+  431  ls
+  432  ls -l
+  433  chmod ..
+  434  ls -l .ssh/authorized_keys
+  435  chmod ..
+  436  cd Hleb/
+  437  ls
+  438  cd..
+  439  cd ..
+  440  ls
+  441  chmod ..
+  442  cd Hleb/
+  443  chmod g=x file.txt
+  444  ls --help
+  445  cd MAXIM/
+  446  ls
+  447  cat file.txt 
+  448  ls /
+  449  cd ..
+  450  cd ADMIN/
+  451  vi file.txt 
+  452  cd ..
+  453  cat .bash_profile 
+  454  cat .bashrc
+  455  tree /tmp/
+  456  cd /home/
+  457  ls
+  458  ls basic_45-46e/
+  459  id
+  460  cd ~
+  461  cd ADMIN/
+  462  ls
+  463  ls -l
+  464  cd ..
+  465  ls .ssh/authorized_keys 
+  466  ls -l .ssh/authorized_keys 
+  467  ls -l .ssh
+  468  ls -ld .ssh
+  469  cd ADMIN/
+  470  ls -l
+  471  chmod g+x file.txt 
+  472  ls -l
+  473  chmod g-x file.txt 
+  474  ls -l
+  475  chmod g=x file.txt 
+  476  ls --help
+  477  ls /tmp/
+  478  tree /t
+  479  tree /tmp/
+  480  pwd
+  481  exit
+  482  tree
+  483  ls -la
+  484  ls
+  485  ls /h
+  486  ls /home/
+  487  ls /home/basic_57-58e/
+  488  ls /home/basic_57-58e/SergeyBL/
+  489  cat /home/basic_57-58e/SergeyBL/feilik.txt
+  490  date >> /home/ /home/
+  491   /home/
+  492  date /home/basic_57-58e/SergeyBL/feilik.txt
+  493  date >> /home/basic_57-58e/SergeyBL/feilik.txt
+  494  cat /home/basic_57-58e/SergeyBL/feilik.txt
+  495  vi /home/basic_57-58e/SergeyBL/feilik.txt
+  496  cat /home/basic_57-58e/SergeyBL/feilik.txt
+  497  history | tail -n5 >> /home/basic_57-58e/SergeyBL/feilik.txt
+  498  cat /home/basic_57-58e/SergeyBL/feilik.txt
+  499  cat /proc/cpuinfo
+  500  cat /home/basic_57-58e/SergeyBL/feilik.txt 
+  501  vi /home/basic_57-58e/SergeyBL/feilik.txt 
+  502  cat /home/basic_57-58e/SergeyBL/feilik.txt 
+  503  vi /home/basic_57-58e/SergeyBL/feilik.txt 
+  504  cat /home/basic_57-58e/SergeyBL/feilik.txt 
+  505  vi /home/basic_57-58e/SergeyBL/feilik.txt 
+  506  cat /home/basic_57-58e/SergeyBL/feilik.txt 
+  507  vi /home/basic_57-58e/SergeyBL/feilik.txt 
+  508  touch /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  509  vi /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  510  date >> /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  511  cat /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  512  df /
+  513  df 
+  514  df -h /
+  515  df -h / >> /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  516  history | tail -n5 >> /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  517  cat /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  518  cat /proc/cpuinfo | grep vendor >>/home/basic_57-58e/SergeyBL/newfeilik.txt 
+  519  vi /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  520  ps -e | wc -l | tail +2 >> /home/basic_57-58e/SergeyBL/newfeilik.txt
+  521  ps -e | tail +2 | wc -l >> /home/basic_57-58e/SergeyBL/newfeilik.txt
+  522  ps -ef | tail +2 | wc -l >> /home/basic_57-58e/SergeyBL/newfeilik.txt
+  523  ps -A
+  524  PS -ef
+  525  ps -ef
+  526  ps -e
+  527  ps -ef | wc -l >> /home/basic_57-58e/SergeyBL/newfeilik.txt
+  528  cat /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  529  vi /home/basic_57-58e/SergeyBL/newfeilik.txt 
+  530  scp basic57-58e@linux.telran-edu.de:/home/basic_57-58e/SergeyBL/newfeilik.txt Desktop/
+  531  scp basic57-58e@linux.telran-edu.de:/home/basic_57-58e/SergeyBL/newfeilik.txt Desktop/moiízmuchannyifailik.txt
+  532  exit
+  533  scp basic57-58e@linux.telran-edu.de:/home/basic_57-58e/SergeyBL/newfeilik.txt /OneDrive/Desktop/moiízmuchannyifailik2.txt
+  534  exit
+  535  cd PAYU
+  536  -a
+  537  a
+  538  ls -a
+  539  l -a
+  540   cat NewFile
+  541  cat /proc/cpuinfo
+  542  cat /proc/cpuinfo |  wc -l
+  543  cat /proc/cpuinfo |  wc -l | head -n1
+  544  cat /proc/cpuinfo |  wc -l >> NewFile
+  545  cat NewFile
+  546  scp basic57-58e@linux.telran-edu.de:/home/basic57-58e/PAYU/NewFile.txt Desktop/
+  547  scp basic57-58e@linux.telran-edu.de:/home/basic57-58e/PAYU/NewFile Desktop/NewFile.txt
+  548  cat NewFile
+  549  scp basic57-58e@linux.telran-edu.de:/home/basic57-58e/PAYU/NewFile.txt Desktop/
+  550  tree
+  551  rm PAYU/file2.txt
+  552  rm /PAYU/file2.txt
+  553  rm file2.txt
+  554  tree
+  555  exit
+  556  ls
+  557  VITALY/
+  558  cd  VITALY/
+  559  nano file.txt
+  560  vi file.txt
+  561  exit
+  562  ls
+  563  cd VITALY/
+  564  touch newfile.txt
+  565  ls 
+  566  date
+  567  date > VITALY/newfile.txt
+  568  date > /VITALY/newfile.txt
+  569  date > newfile.txt
+  570  ls newfile.txt
+  571  ls
+  572  VITALY/
+  573  cd VITALY/
+  574  touch newfile.txt
+  575  date
+  576  date > newfile.txt 
+  577  date > newfile.txt
+  578  date > /newfile.txt
+  579  ls
+  580  cd VITALY/
+  581  date
+  582  touch newfile.txt
+  583  date > newfile.txt 
+  584  df
+  585  df -h
+  586  /dev/xvda1 >> newfile.txt
+  587  dev/xvda1 >> newfile.txt
+  588  /dev/xvda1 >> newfile.txt
+  589  / >> newfile.txt
+  590  ps -ef
+  591  ls
+  592  cd VITALY
+  593  ls
+  594  cd VITALY/
+  595  touch newfile.txt
+  596  date
+  597  date > newfile.txt 
+  598  df
+  599  df -h
+  600  df / -h >> 
+  601  df / -h >> newfile.txt 
+  602  history
+  603  tree
+  604  cd /admin/PAYU
+  605  cd /ADMIN/PAYU
+  606  cd /PAYU
+  607  cd /ADMIN/PAYU
+  608  cd ADMIN/PAYU
+  609  ls
+  610  cd /ADMIN/PAYU
+  611  cd ADMIN/PAYU
+  612  pwd
+  613  cd /PAYU
+  614  cd ADMIN/PAYU
+  615  tree
+  616  cd PAYU
+  617  date > ADMIN/PAYU/NewFile
+  618  touch ADMIN/PAYU/NewFile
+  619  touch PAYU/NewFile
+  620  touch /PAYU/NewFile
+  621  touch NewFile
+  622  tree
+  623  date > NewFile
+  624  ls
+  625  cat
+  626  tree
+  627  cat NewFile
+  628  df / >> NewFile
+  629  cat NewFile
+  630  history
+  631  history | tail -n5 >> NewFile
+  632  cat NewFile
+  633  cat /proc/cpuinf
+  634  cd /proc/cpuinf
+  635  cat /proc/cpuinfo
+  636  cat /proc/cpuinfo  head -n2 | tail -n1
+  637  cat /proc/cpuinfo head -n2 | tail -n1
+  638  cat /proc/cpuinfo | head -n2 | tail -n1
+  639  cat /proc/cpuinfo | head -n2 | tail -n1 | awk -F {print $1}
+  640  cat /proc/cpuinfo | head -n2 | tail -n1 | awk {print $1}
+  641  cat /proc/cpuinfo | head -n2 | tail -n1 | -F {print $1}
+  642  cat /proc/cpuinfo | head -n2 | tail -n1 | awk {print $1}
+  643  cat /proc/cpuinfo | head -n2 | tail -n1 | {print $1}
+  644  cat /proc/cpuinfo | head -n2 | tail -n1 | awk -F {print $1}
+  645  cat /proc/cpuinfo | head -n2 | tail -n1 
+  646  cat /proc/cpuinfo | head -n2 | tail -n1 | awk '{print $1}'
+  647  cat /proc/cpuinfo | head -n2 | tail -n1 | awk '{print $1}' >> NewFile
+  648  cat NewFile
+  649  cat /proc/cpuinfo | head -n2 | tail -n1 | awk '{print $2}'
+  650  cat /proc/cpuinfo | head -n2 | tail -n1 | awk '{print $3}'
+  651  cat /proc/cpuinfo | head -n2 | tail -n1 | awk '{print $3}' >> NewFile
+  652  cat NewFile
+  653  vi NewFile
+  654  cat NewFile
+  655  ls
+  656  cd VITALY/
+  657  df
+  658  df -h
+  659  df -h | tail +n2
+  660  df -h | tail +2
+  661  df -h | tail +n
+  662  df -h | head -n2 | tail -n1
+  663  ls
+  664  cd VITALY/
+  665  tail +2
+  666   tail --help
+  667  ls
+  668  cd VITALY/
+  669  touch
+  670  touch newfile.txt
+  671  date 
+  672  date > newfile.txt
+  673  ls
+  674  cd VITALY/
+  675  date
+  676  touch newfile.txt
+  677  date >> newfile.txt 
+  678  df 
+  679  df -h
+  680  df -h | grep /
+  681  df / 
+  682  df / dh
+  683  df / -h
+  684  df -h
+  685  df / -h
+  686  df 
+  687  tail -n+2
+  688  ls
+  689  cd VITALY/
+  690  touch newfile.txt
+  691  date
+  692  date > newfile.txt 
+  693  ls
+  694  cd VITALY/
+  695  touch newfile.txt
+  696  date
+  697  date > newfile.txt
+  698  ls
+  699  cd VITALY/
+  700  touch newfile.txt
+  701  date 
+  702  date > newfile.txt
+  703  df
+  704  df -h
+  705  df / -h
+  706  history
+  707  history | tail -n5
+  708  history | tail -n5 >> newfile.txt 
+  709  cat /proc/cpuinfo 
+  710  cat /proc/cpuinfo |  grep vendor
+  711  cat /proc/cpuinfo |  grep vendor_id
+  712  cat /proc/cpuinfo |  grep vendor_id >> newfile.txt
+  713  vi newfile.txt
+  714  ps -ef
+  715  ps aux
+  716  ps aux | tail +2n | wc - l
+  717  ps aux | tail +2n
+  718  ps aux | tail +2
+  719  ps aux | tail +n2
+  720  ps aux | head -n2
+  721  ps aux | head -n2 | tail -n1
+  722  ps aux | head -n2 | tail -n1 | wc -l
+  723  ps aux | head -n2 | tail -n1 | wc -l >> newfile.txt 
+  724  ps aux | tail +2
+  725  ps aux | tail +n
+  726  ps aux | tail +n2
+  727  ps aux | tail +n2 >> hiostory
+  728  ps aux | tail  +2 | wc -l >> newfile.txt 
+  729  ps aux | tail  +n2 | wc -l >> newfile.txt 
+  730  ps aux
+  731  ps ux
+  732  ls -l
+  733  date > MAXIM/
+  734  date > MAXIM/file
+  735  history
+  736  df -h
+  737  df -h >> MAXIM/file
+  738  man tail
+  739  history |tail -5
+  740  history |tail -5 >> MAXIM/file
+  741  history |tail +5
+  742  cat /proc/cpuinfo 
+  743  cat /proc/cpuinfo | grep vendor
+  744  cat /proc/cpuinfo | grep vendor >> MAXIM/file
+  745  vi file
+  746  vi MAXIM/file
+  747  ps --help
+  748  ps aux
+  749  wc -l
+  750  ps aux | wc -l
+  751  ps aux | wc -l | head -2
+  752  ps aux | head -2
+  753  man head
+  754  ps aux | head 2
+  755  ps aux | head +2
+  756  ps aux | wc -l
+  757  ps aux | wc -l | tail -119 >> MAXIM/file
+  758  cat MAXIM/file
+  759  ps aux | tail
+  760  ps aux
+  761  ps aux | wc -l
+  762  tail --help
+  763  ps aux | wc -l | tail -n 1
+  764  ps aux | tail -n 1
+  765  ps aux | tail -q
+  766  ps aux | tail -q200
+  767  ps aux
+  768  ps aux | tail 1
+  769  ps aux | tail -n2
+  770  ps aux | grep 0.
+  771  ps aux | grep 0. | wc -l
+  772  ps aux | grep 0. | wc -l >> MAXIM/file
+  773  vi MAXIM/file
+  774  tree MAXIM/
+  775  exit
+  776  cd MAXIM/
+  777  ls
+  778  cat file
+  779  cp file file2.txt
+  780  pwd
+  781  ls
+  782  exit
+  783  ls
+  784  cd VITALY/
+  785  touch newfile.txt
+  786  df
+  787  df -h
+  788  df / -h
+  789  ls
+  790  cd VITALY/
+  791  touch newfile.txt
+  792  date >> newfile.txt
+  793  df
+  794  df -h
+  795  df / -h
+  796  df / -h >> newfile.txt 
+  797  history | tail -n5
+  798  history | tail -n5 >> newfile.txt
+  799  cat /proc/cpuinfo
+  800  cat /proc/cpuinfo | grep vendor
+  801  cat /proc/cpuinfo | grep vendor_id >> newfile.txt 
+  802  vi newfile.txt
+  803  ps aux 
+  804  ps aux | tail +2 | wc -l 
+  805  ps -ef
+  806  ps aux
+  807  ps aux | tail +2 newfile.txt | wc -l
+  808  ps aux | tail +n2 newfile.txt | wc -l
+  809  ps aux | tail +2n newfile.txt | wc -l
+  810  ls
+  811  cd VITALY/
+  812  pwd
+  813  touch newfile.txt
+  814  date >> newfile.txt 
+  815  df
+  816  df -h
+  817  df / -h
+  818  df / -h >> newfile.txt 
+  819  history >> newfile.txt
+  820  cat /proc/cpuinfo
+  821  cat /proc/cpuinfo | grep vendor
+  822  cat /proc/cpuinfo | grep vendor_id >> newfile.txt 
+  823  vi newfile.txt 
+  824  ls
+  825  cd VITALY/
+  826  date >> file2.txt
+  827  df
+  828  df -h
+  829  df / -h
+  830  df / -h >> file2.txt 
+  831  history >> file2.txt 
+  832  history | tail -n5 >> file2.txt
+  833  cat /proc/cpuinfo 
+  834  cat /proc/cpuinfo | grep vendor
+  835  cat /proc/cpuinfo | grep vendor_id >> file2.txt 
+  836  vi file2.txt 
+  837  ls
+  838  cd VITALY/
+  839  touch work3.txt
+  840  date >> work3.txt 
+  841  df
+  842  df -h
+  843  df / -h
+  844  df / -h >> work3.txt 
+  845  cat /proc/cpuinfo | grep vendor
+  846  cat /proc/cpuinfo | grep vendor_id >> work3.txt 
+  847  vi work3.txt 
+  848  vi file2.txt 
+  849  ls
+  850  cd VITALY/
+  851  vi file@.txt
+  852  vi file2.txt
+  853  cat /proc/cpuinfo
+  854  cat /proc/cpuinfo  | head +n2
+  855  cat /proc/cpuinfo  | head -n2
+  856  cat /proc/cpuinfo  | head -n2 | tail -n1
+  857  cat /proc/cpuinfo  | head -n2 | tail -n1 | wc '{print $3}' 
+  858  cat /proc/cpuinfo  | head -n2 | tail -n1 | awk '{print $3}' 
+  859  cat /proc/cpuinfo  | head -n2 | tail -n1 | awk '{print $3}' >> NewFile
+  860  cat NewFile
+  861  pwd
+  862  cd PAYU
+  863  cd ~
+  864  rm NewFile
+  865  tree
+  866  cat /proc/cpuinfo  | head -n2 | tail -n1 | wc '{print $3}'
+  867  tree
+  868  cd PAYU
+  869  ls
+  870  cat NEwFile
+  871  cat NewFile
+  872  exit
+  873  ls
+  874  cd VITALY/
+  875  touch newfile.txt
+  876  date > newfile.txt 
+  877  df
+  878  df -h
+  879  df / -h
+  880  df / -h >> newfile.txt
+  881  cat /proc/cpuinfo
+  882  cat /proc/cpuinfo | grep vendor
+  883  cat /proc/cpuinfo | grep vendor_id >> newfile.txt 
+  884  vi newfile txt 
+  885  vi newfile.txt 
+  886  ls
+  887  cd VITALY/
+  888  touch file.txt
+  889  date > file.txt 
+  890  df
+  891  df -h
+  892  df / -h
+  893  df / -h >> file.txt
+  894  cat /proc/cpuinfo
+  895  cat /proc/cpuinfo | grep vendor
+  896  cat /proc/cpuinfo | grep vendor_id >> file.txt
+  897  vi file.txt
+  898  cd VITALY/
+  899  ls
+  900  rm file2.txt/hiostory/newfile.txt/work3.txt/file@.txt./file.txt
+  901  ls
+  902  rm work.3 txt
+  903  ls
+  904  cd VITALY/
+  905  date >> wvfile.txt
+  906  df
+  907  df -h
+  908  df / -h
+  909  df / -h >> wvfile.txt
+  910  history >> wvfile.txt 
+  911  cat /proc/cpuinfo
+  912  cat /proc/cpuinfo | grep vendor
+  913  cat /proc/cpuinfo | grep vendor_id >> wvfile.txt 
+  914  vi wvfile.txt 
+  915  cat /proc/cpuinfo ps aux
+  916  ps aux | tail -n+2 wvfile.txt | wc -l 
+  917  ps aux | tail -n+2 wvfile.txt | wc -l >> wvfile.txt
+  918  pwd
+  919  ls
+  920  exit
+  921  ls
+  922  cd VITALY/
+  923  ps aux
+  924  ps aux | tail -n+2  | wc -l >> wvfile.txt
+  925  pwd
+  926  ls
+  927  exit
+  928  ls
+  929  cd VITALY/
+  930  touch newfile.txt
+  931  date > newfile.txt
+  932  df
+  933  df -h
+  934  df / -h
+  935  history >> newfile.txt 
+  936  ls
+  937  cd VITALY/
+  938  touch wvfile.txt
+  939  date > wvfile.txt 
+  940  df
+  941  df -h
+  942  df / -h
+  943  df / -h >> wvfile.txt 
+  944  history >> wvfile.txt 
+  945  cat /proc/cpuinfo
+  946  cat /proc/cpuinfo | grep vendor
+  947  cat /proc/cpuinfo | grep vendor_id >> wvfile.txt 
+  948  vi wvfile.txt 
+  949  ps aux
+  950  ps aux | tail -n+2 /VITALY/wvfile.txt | wc -l
+  951  ps aux | tail -n+2 wvfile.txt | wc -l
+  952  ps aux | tail -n+2 /wvfile.txt | wc -l
+  953  ps aux | tail -n+2 wvfile.txt | wc -l
+  954  ps aux | tail -n+2 wvfile.txt | wc -l >> wvfile.txt
+  955  pwd
+  956  ls
+  957  cd Tim
+  958  cd /home/tim
+  959  cd /home/TIM
+  960  cd /TIM
+  961  ls
+  962  CD file2.txt
+  963  cat file2.txt
+  964  cd..
+  965  cd ..
+  966  cd /TIM
+  967  date > /home/TIM
+  968  date > TIM
+  969  date >> TIM
+  970  /history
+  971  history
+  972  vi /home/Tim
+  973  ps aux
+  974  date > TIM
+  975  touch TIM.txt
+  976  history
+  977  history | tail -n5
+  978  history | tail -n5 >> /home/TIM
+  979  cd Tim
+  980  cd /home/tim
+  981  cd /home/TIM
+  982  cd /TIM
+  983  ls
+  984  CD file2.txt
+  985  cat file2.txt
+  986  cd..
+  987  cd ..
+  988  cd /TIM
+  989  date > /home/TIM
+  990  date > TIM
+  991  date >> TIM
+  992  /history
+  993  history
+  994  vi /home/Tim
+  995  ps aux
+  996  date > TIM
+  997  touch TIM.txt
+  998  history
+  999  history | tail -n5
+ 1000  history | tail -n5 >> /home/TIM
+ 1001  ls
+ 1002  cd VITALY/
+ 1003  date >> wvfile.txt
+ 1004  df
+ 1005  df -h
+ 1006  df / -h
+ 1007  df / -h >> wvfile.txt
+ 1008  history >> wvfile.txt
